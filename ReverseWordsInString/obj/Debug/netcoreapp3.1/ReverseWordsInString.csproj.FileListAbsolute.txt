@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.exe
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.deps.json
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.dll
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\bin\Debug\netcoreapp3.1\ReverseWordsInString.pdb
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\obj\Debug\netcoreapp3.1\ReverseWordsInString.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\obj\Debug\netcoreapp3.1\ReverseWordsInString.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\obj\Debug\netcoreapp3.1\ReverseWordsInString.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\obj\Debug\netcoreapp3.1\ReverseWordsInString.dll
+C:\Users\Dev Ops\source\repos\ReverseWordsInString\ReverseWordsInString\obj\Debug\netcoreapp3.1\ReverseWordsInString.pdb
